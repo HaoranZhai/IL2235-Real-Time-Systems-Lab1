@@ -2,8 +2,7 @@
 
 > **Course:** IL2235 Real-Time Systems  
 > **Institution:** KTH Royal Institute of Technology  
-> **Lab Topic:** Toolchain installation and environment verification using ES-Lab-Kit  
-> **Author:** [Your Name]  
+> **Lab Topic:** Toolchain installation and environment verification using ES-Lab-Kit   
 > **Year:** 2026
 
 ---
@@ -54,4 +53,5 @@ Follow these steps:
 ---
 
 ## 📂 Repository Structure
+
 
